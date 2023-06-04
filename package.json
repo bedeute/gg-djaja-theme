@@ -9,6 +9,17 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bedeute/gg-djaja-theme.git"
+  },
+  "publisher": "bedeute",
+  "author": {
+    "name": "Nanang Budi Utomo",
+    "email": "bedeute@gmail.com",
+    "url": "https://bedeute.github.io"
+  },
+  "homepage": "https://github.com/bedeute/gg-djaja-theme/blob/main/README.md",
   "contributes": {
     "themes": [
       {
