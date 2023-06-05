@@ -2,8 +2,11 @@
 
 All notable changes to the "gg-djaja" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## "0.1.2"
 
-## [Unreleased]
+- Make background color darker
+- Soften syntax color
+
+## "0.1.0"
 
 - Initial release
