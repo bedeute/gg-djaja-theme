@@ -1,4 +1,4 @@
-{
+{ 
   "name": "gg-djaja",
   "displayName": "GG Djaja",
   "description": "VSCode theme inspirede by GG Djaja packaging",
@@ -8,6 +8,15 @@
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Light Theme",
+    "GG Djaja",
+    "Night Theme",
+    "Night Forest Theme",
+    "Early Bird"
   ],
   "icon": "images/logo.png",
   "repository": {
