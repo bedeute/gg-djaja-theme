@@ -2,6 +2,10 @@
 
 All notable changes to the "gg-djaja" extension will be documented in this file.
 
+## "0.2.1"
+- Color adjustment. Focus lighten some text color for better readibility
+- Revamp syntax highlighting color
+
 ## "0.1.2"
 - Darken text color (except text color at the editor and terminal) to make more focus on editor panel
 - Fix minimap background blocking the view
