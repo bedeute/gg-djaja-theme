@@ -2,7 +2,7 @@
   "name": "gg-djaja",
   "displayName": "GG Djaja",
   "description": "VSCode theme inspirede by GG Djaja packaging",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -23,6 +23,9 @@
     "type": "git",
     "url": "https://github.com/bedeute/gg-djaja-theme.git"
   },
+  "scripts": {
+    "publish": "vsce publish"
+  },
   "publisher": "bedeute",
   "author": {
     "name": "Nanang Budi Utomo",
@@ -33,10 +36,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "gg-djaja",
+        "label": "GG Djaja",
         "uiTheme": "vs-dark",
-        "path": "./themes/gg-djaja-color-theme.json"
+        "path": "./themes/gg-djaja-darken.json"
       }
+      // {
+      //   "label": "GG Djaja Darken",
+      //   "uiTheme": "vs-dark",
+      //   "path": "./themes/gg-djaja-darken.json"
+      // }
     ]
   }
 }
