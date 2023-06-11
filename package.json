@@ -2,11 +2,7 @@
   "name": "gg-djaja",
   "displayName": "GG Djaja",
   "description": "VSCode theme inspirede by GG Djaja packaging",
-<<<<<<< HEAD
   "version": "0.2.1",
-=======
-  "version": "0.2.2",
->>>>>>> a446c2c1d0b86499e78e1c8b2e306e1c73e455dc
   "engines": {
     "vscode": "^1.78.0"
   },
