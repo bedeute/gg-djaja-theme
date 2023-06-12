@@ -2,6 +2,12 @@
 
 All notable changes to the "gg-djaja" extension will be documented in this file.
 
+## "0.2.2"
+- Add new theme variation.
+- Change default theme to slightly bright. And other to darken theme.
+- Remove tab group border for more clean look.
+- Readjust git decoration sidebar for better look.
+
 ## "0.2.1"
 - Color adjustment. Focus lighten some text color for better readibility
 - Revamp syntax highlighting color

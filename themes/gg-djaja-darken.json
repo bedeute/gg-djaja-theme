@@ -5,7 +5,7 @@
     "newOperator":"#c74c6f",
     "stringLiteral":"#c2bb5f",
     "customLiteral": "#5db075",
-    "numberLiteral": "#a26bd1",
+    "numberLiteral": "#a26bd1"
   },
   "tokenColors": [
     {
@@ -161,7 +161,7 @@
       "name": "Variable Object",
       "scope": [
         "meta.block.switch.c",
-        "variable.other.object",
+        "variable.other.object"
       ],
       "settings": {
         "foreground": "#6091c3"
@@ -607,7 +607,7 @@
     "input.placeholderForeground": "#274d42",
     "textLink.foreground": "#ab3728",
     "editor.background": "#0a221b",
-    "editor.foreground": "#56756c",
+    "editor.foreground": "#c1d7d1",
     "editorLineNumber.foreground": "#254139",
     "editorCursor.foreground": "#97a19e89",
     "editorCursor.background": "#081c16",
@@ -695,7 +695,7 @@
     "breadcrumb.focusForeground": "#638278",
     "editorGroupHeader.border": "#091f18",
     "editorGroupHeader.tabsBackground": "#091f18",
-    "editorGroupHeader.tabsBorder": "#0c2a20",
+    "editorGroupHeader.tabsBorder": "#0a221b",
     "tab.activeForeground": "#89a49c",
     "tab.border": "#0a221b",
     "tab.activeBackground": "#0a221b",
