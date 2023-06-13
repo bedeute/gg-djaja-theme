@@ -2,6 +2,10 @@
 
 All notable changes to the "gg-djaja" extension will be documented in this file.
 
+## "0.2.3"
+- update ansi color on default theme
+- update minimap background color more transparent and update hover color
+
 ## "0.2.2"
 - Add new theme variation.
 - Change default theme to slightly bright. And other to darken theme.
