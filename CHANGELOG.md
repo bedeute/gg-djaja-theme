@@ -2,6 +2,11 @@
 
 All notable changes to the "gg-djaja" extension will be documented in this file.
 
+## "0.2.4"
+- update _comment_ color for better readability
+- soften terminal ansi colors
+- make notification badge, and remote indicator to red
+
 ## "0.2.3"
 - update ansi color on default theme
 - update minimap background color more transparent and update hover color
@@ -13,7 +18,7 @@ All notable changes to the "gg-djaja" extension will be documented in this file.
 - Readjust git decoration sidebar for better look.
 
 ## "0.2.1"
-- Color adjustment. Focus lighten some text color for better readibility
+- Color adjustment. Focus lighten some text color for better readability
 - Revamp syntax highlighting color
 
 ## "0.1.2"
