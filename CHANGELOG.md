@@ -2,6 +2,9 @@
 
 All notable changes to the "gg-djaja" extension will be documented in this file.
 
+## "0.3.61"
+- Fix theme naming
+
 ## "0.3.6"
 - Update minimap hover
 - add light variant
