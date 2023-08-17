@@ -38,7 +38,7 @@
       {
         "label": "GG Djaja",
         "uiTheme": "vs-dark",
-        "path": "./themes/gg-djaja-light.json"
+        "path": "./themes/gg-djaja-default.json"
       },
       {
         "label": "GG Djaja Darken",
