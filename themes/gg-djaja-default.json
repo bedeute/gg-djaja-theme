@@ -794,8 +794,9 @@
     "debugExceptionWidget.border": "#731d27",
     "activityBar.activeBorder": "#631821",
     "activityBar.activeFocusBorder": "#6b1921",
-    "minimapSlider.background": "#21443b69",
-    "minimapSlider.hoverBackground": "#244e4369",
+    "minimapSlider.background": "#21443b42",
+    "minimapSlider.hoverBackground": "#244e4350",
+    "minimapSlider.activeBackground": "#244e4369",
     "textLink.activeForeground": "#9e2845",
     "welcomePage.tileHoverBackground": "#98d5c40a"
   }
