@@ -2,7 +2,7 @@
   "name": "gg-djaja",
   "displayName": "GG Djaja",
   "description": "VSCode theme inspirede by GG Djaja packaging",
-  "version": "0.2.5",
+  "version": "0.3.6",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -38,12 +38,17 @@
       {
         "label": "GG Djaja",
         "uiTheme": "vs-dark",
-        "path": "./themes/gg-djaja-default.json"
+        "path": "./themes/gg-djaja-light.json"
       },
       {
         "label": "GG Djaja Darken",
         "uiTheme": "vs-dark",
         "path": "./themes/gg-djaja-darken.json"
+      },
+      {
+        "label": "GG Djaja Light",
+        "uiTheme": "vs",
+        "path": "./themes/gg-djaja-light.json"
       }
     ]
   }
