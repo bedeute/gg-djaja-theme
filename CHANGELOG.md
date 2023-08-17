@@ -2,6 +2,16 @@
 
 All notable changes to the "gg-djaja" extension will be documented in this file.
 
+<<<<<<< Updated upstream
+=======
+## "0.3.61"
+- Fix theme naming
+
+## "0.3.6"
+- Update minimap hover
+- add light variant
+
+>>>>>>> Stashed changes
 ## "0.2.5"
 - rework all background colors (reduce contrast) for more convenient looks
 - revert remote indicator color to focus more on the editor
